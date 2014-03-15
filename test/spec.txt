@@ -1,0 +1,7 @@
+get_file.txt	code="200"
+get_file_no_host.txt	code="400"
+get_file_query.txt	code="200"
+get_file_urldecode.txt	code="200"
+get_slash.txt		code="200"
+http_1_0.txt		code="505"
+post.txt		code="405"
